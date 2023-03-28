@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Sithumpramu/Sithumpramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sithumpramu/Sithumpramu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫 About Me:
 I'm currently following an degree in software engineering at Sri Lanaka Institute of Information Technology(SLIIT) .
