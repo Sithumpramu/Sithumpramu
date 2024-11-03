@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently following an degree in software engineering at Sri Lanka Institute of Information Technology(SLIIT) .
+I'm currently following an degree in software engineering at Deakin university Melbourne .
 
 
 ## 🌐 Socials:
