@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently following an degree in software engineering at Deakin university Melbourne .
+I'm currently following BSC software engineering at Deakin university Melbourne .
 
 
 ## 🌐 Socials:
