@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently following BSC software engineering at Deakin university in Australia. 
+I'm Software engineering graduate from Deakin university in Australia. 
 
 
 ## 🌐 Socials:
