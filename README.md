@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineering (Honours) graduate from Deakin University in Australia and and a former Software Engineer Intern at Enterprise Monkey
+I am a Software Engineering (Honours) graduate from Deakin University in Australia and and a former Software Engineer Intern at Enterprise Monkey. </br>
 I build secure, multi-tenant web systems, custom API architectures, and AI-native applications.
 
 ## 🌐 Socials:
