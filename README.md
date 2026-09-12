@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Software Engineering (Honours) graduate from Deakin University in Australia[cite: 1]. I build secure, multi-tenant web systems, custom API architectures, and AI-native applications[cite: 1].
+I am a Software Engineering (Honours) graduate from Deakin University in Australia. 
+I build secure, multi-tenant web systems, custom API architectures, and AI-native applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithum-pramuditha/)
